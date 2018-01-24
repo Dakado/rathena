@@ -17,7 +17,7 @@
 #include "int_guild.hpp"
 #include "char.hpp"
 #include "char_clif.hpp"
-#include "char_mapif.hpp"
+#include "char_mapif.hpp" 
 
 //early declaration
 void chlogif_on_ready(void);
